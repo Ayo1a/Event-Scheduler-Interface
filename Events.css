@@ -1,0 +1,88 @@
+/*Liya 200485159 Final 2022a*/
+
+body
+{
+background-color: #485159;
+	padding: 0;
+	margin: 0;
+	font-family:helvetica, sans-serif;
+	font-weight: normal;
+  
+
+}
+table, th {
+padding: 10px;
+background-color: lightgray;
+border-radius: 10px;
+
+}
+
+.timeFrame{
+	display: inline-block;
+	width: 35%;
+	height: 60px;
+	float: left;
+	margin: auto;
+	background-color: #485159;
+	 border-radius: 15px 5px 15px 5px;
+	 padding:2%;
+	font-size:18px;
+	text-align:center;
+}
+.eventData{
+	background-color: lightgray;
+	width: 40%;
+	height: 60px;
+	text-align:left;
+	margin-left:5%;
+
+}
+
+.adding{
+	font-family:ariel, sans-serif;
+	font-size:15px ;
+	font-weight:bold;
+	float:right;
+	margin:auto;
+	padding:2%;
+	border-radius: 5px;
+	background-color: transparent;
+	color:#485159;
+	border-radius: 15px 5px 15px 5px;
+	border: solid 2px gray;
+}
+
+.date{
+	font-size:18px ;
+	font-family:fantasy, sans-serif;
+	font-weight:lighter;
+	color:white;
+}
+
+.time{
+	font-family:ariel, sans-serif;
+	font-size:23px;
+	color:lightgray;
+
+}
+
+.title{
+	font-size:30px;
+	text-align:left;
+	margin-left:5%;
+	float:left;
+}
+.descr{
+	font-size:18px;
+	text-align:left;
+	margin-left:5%;
+	float:left;
+}
+footer{
+	position:fixed;
+	bottom:0;
+	width:100%;
+   height:20px;   /* Height of the footer */
+   background:#6cf;
+}
+
