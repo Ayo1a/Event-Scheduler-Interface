@@ -1,4 +1,4 @@
-**Overview**
+##Overview
 
 This JavaScript-based project, developed as part of my assessment (ID200485159, 2022a), implements a dynamic event scheduling interface. The core functionality revolves around sorting events by date and time, displaying them in a user-friendly manner, and allowing users to add events to a personal calendar stored in the browser's localStorage.
 
